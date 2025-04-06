@@ -13,3 +13,9 @@ Feel free to continue publishing the answers for the next semesters and for the 
 THANKS.
 
 GOOD LUCK &&  enjoy:)
+
+
+או בעברית:
+
+תשובות למבוא למדמ"ח בפתוחה-ג'אווה לשאלות 1,2 מ2016-2025
+תהנו.
