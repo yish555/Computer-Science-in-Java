@@ -2,7 +2,7 @@
 # Computer-Science-in-Java
 #JAVA-20441 
 
-Solutions for questions 1 and 2 in a summarized form from 2016 to 2025A.(Main.java)
+Solutions for questions 1 and 2 in a summarized form from 2016 to 2025A.(Main.java) 😊
 
 Some of the solutions I wrote, and some I collected during the semester, but they work and will receive the maximum points.
 
@@ -12,7 +12,7 @@ Feel free to continue publishing the answers for the next semesters and for the 
 
 THANKS.
 
-GOOD LUCK &&  enjoy:)
+GOOD LUCK &&  enjoy 😇
 
 
 או בעברית:
